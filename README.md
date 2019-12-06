@@ -3,4 +3,6 @@
 
 ### Atualização de teste de get
 
-Mais uma alteração pra testar o merge do git.
+#### Mais uma alteração pra testar o merge do git.
+
+Alteração git pull
