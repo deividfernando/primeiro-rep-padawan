@@ -6,3 +6,5 @@
 #### Mais uma alteração pra testar o merge do git.
 
 Alteração git pull
+
+Testando usar o git pull para enviar pro github
